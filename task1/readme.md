@@ -1,3 +1,3 @@
-Create your design in this folder.
+# Lab 3 task 1
 
-Don't forget to copy new version of vbuddy.cpp and your port configuration file vbuddy.cfg to this folder.
+In this task, I modified the 
